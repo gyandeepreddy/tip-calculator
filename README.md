@@ -42,7 +42,7 @@ repository and then refer to it in this README.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Gyandeep Reddy Vulupala
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
